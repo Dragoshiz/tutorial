@@ -1,0 +1,11 @@
+print("Cum te numesti?")
+name = input()
+print("Salut Domnule {}".format(name))
+print("Am auzit ca a fost ziua ta..")
+print("Cati ani ai implinit? ")
+age = input()
+print("Wow {} ani!?!?".format(age))
+print("Pari mai tanar...")
+print("Acum poti sa mergi sa te speli")
+
+print("LA MULTI ANI")
